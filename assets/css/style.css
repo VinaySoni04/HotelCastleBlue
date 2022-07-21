@@ -6123,8 +6123,8 @@ header {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-color: #293750;
-  color: #6f7e9c;
+  background-color: black;
+  color: white;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
 }
